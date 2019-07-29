@@ -1,0 +1,3 @@
+﻿  dll_to_inject.cpp
+     Creating library E:\github\dll_injection_poc\Debug\dll_to_inject.lib and object E:\github\dll_injection_poc\Debug\dll_to_inject.exp
+  dll_to_inject.vcxproj -> E:\github\dll_injection_poc\Debug\dll_to_inject.dll
